@@ -24,7 +24,7 @@ Ahsan Qureshi
 
 	Here is a screenshot of the script being executed:
 
-<img src='http://i.imgur.com/YGcYskH.png' title'Playlist Script Executed' width='' alt='Playlist Script Executed' />
+<img src='http://i.imgur.com/YGcYskH.png' title='Playlist Script Executed' width='' alt='Playlist Script Executed' />
 
 
 
