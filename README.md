@@ -65,4 +65,4 @@ Ahsan Qureshi
 
 	Here is the XSS script being executed:
 
-<img src='http://i.imgur.com/DY9x3T4.png' title='Shortcode XSS' width='' alt='Shortcode XSS' \>
+<img src='http://i.imgur.com/DY9x3T4.png' title='Shortcode XSS' width='' alt='Shortcode XSS' />
